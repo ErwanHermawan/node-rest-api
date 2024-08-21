@@ -1,7 +1,7 @@
 {
-	"name": "rest-api-next",
+	"name": "node-rest-api",
 	"version": "1.0.0",
-	"description": "Rest API Next.js",
+	"description": "Rest API Node.js",
 	"main": "index.js",
 	"scripts": {
 		"start": "nodemon",
